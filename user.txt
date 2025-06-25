@@ -1,0 +1,10 @@
+User Default 
+
+ADMIN
+user: admin
+pass: admin
+
+
+KASIR
+user: kasir
+user: kasir
